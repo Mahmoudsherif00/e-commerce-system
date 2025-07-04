@@ -1,0 +1,12 @@
+com\mycompany\e\commerce\system\CartItem.class
+com\mycompany\e\commerce\system\ShippableProduct.class
+com\mycompany\e\commerce\system\Checkout.class
+com\mycompany\e\commerce\system\Cart.class
+com\mycompany\e\commerce\system\SimpleProduct.class
+com\mycompany\e\commerce\system\Customer.class
+com\mycompany\e\commerce\system\ExpirableProduct.class
+com\mycompany\e\commerce\system\Product.class
+com\mycompany\e\commerce\system\ShippableExpirableProduct.class
+com\mycompany\e\commerce\system\ShippingService.class
+com\mycompany\e\commerce\system\ECommerceSystem.class
+com\mycompany\e\commerce\system\Ishippment.class
